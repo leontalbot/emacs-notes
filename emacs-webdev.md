@@ -1,19 +1,19 @@
 Emacs pour développeur Web
 ==========================
 
-Voici une proposition de configuration Emacs pour le développement web axé front-end :
+Voici une proposition de configuration Emacs pour le développement web axé front-end.
 
 ## Configuration de base
 
-* [Ajouter les numéros de ligne](http://www.emacswiki.org/emacs/LineNumbers);
-* Surligner la ligne courante;
-* Activer Ibuffer;
-* Modifier la police de caractère.
+* [Ajouter les numéros de ligne](http://www.emacswiki.org/emacs/LineNumbers#toc6);
+* [Surligner la ligne courante](https://www.gnu.org/software/emacs/manual/html_node/emacs/Cursor-Display.html);
+* [Activer Ibuffer](http://www.ergoemacs.org/emacs/emacs_buffer_management.html);
+* [Modifier la police de caractère](http://www.emacswiki.org/emacs/SetFonts).
 
 ##[Personnalisé certains raccourcis clavier](http://www.gnu.org/software/emacs/manual/html_node/elisp/Key-Binding-Commands.html)
 
 * [Naviguer à travers les fenetres](http://www.emacswiki.org/emacs/WindMove);
-* Abbr. dynamique (auto-complétion d'expression).
+* [Abbr. dynamique](http://www.emacswiki.org/emacs/DynamicAbbreviations) (auto-complétion d'expression).
 
 ##Gestion des paquets avec ELPA/MELPA
 
