@@ -32,7 +32,6 @@ Donc `C-k` est semblable à `Ctrl + k`.
 * Fin du buffer `M->`
 * Braquette fermante `C-M flèche droite`
 * Braquette ouvrante `C-M flèche gauche`
-* Déplacer un caractère vers l'avant `C-t`
 
 ## Buffers
 
@@ -92,6 +91,7 @@ On peut faire des actions spécifiques à une région qui est marquée. Ex.: Des
 * Intervertir deux lettres: `C-t`
 * Intervertir deux mots: `M-t`
 * Intervertir deux lignes: `C-x C-t`
+* Déplacer un caractère vers l'avant ([tranpose](https://www.gnu.org/software/emacs/manual/html_node/emacs/Transpose.html)) `C-t`
 
 ## Shell
 
