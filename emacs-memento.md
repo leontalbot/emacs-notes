@@ -32,6 +32,7 @@ Donc `C-k` est semblable à `Ctrl + k`.
 * Fin du buffer `M->`
 * Braquette fermante `C-M flèche droite`
 * Braquette ouvrante `C-M flèche gauche`
+* Déplacer un caractère vers l'avant `C-t`
 
 ## Buffers
 
