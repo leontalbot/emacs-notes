@@ -91,7 +91,7 @@ On peut faire des actions spécifiques à une région qui est marquée. Ex.: Des
 * Intervertir deux lettres: `C-t`
 * Intervertir deux mots: `M-t`
 * Intervertir deux lignes: `C-x C-t`
-* Déplacer un caractère vers l'avant ([tranpose](https://www.gnu.org/software/emacs/manual/html_node/emacs/Transpose.html)) `C-t`
+* Déplacer un caractère vers l'avant ([transpose](https://www.gnu.org/software/emacs/manual/html_node/emacs/Transpose.html)) `C-t`
 
 ## Shell
 
