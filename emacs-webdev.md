@@ -30,7 +30,7 @@ Voici une proposition de configuration Emacs pour le développement web axé fro
 * [SCSS mode](https://github.com/antonj/scss-mode);
 * [Web mode](https://github.com/fxbois/web-mode) (Édition de template HTML);
 * [Yasnippet](https://github.com/capitaomorte/yasnippet) (Système de snippets/templates);
-* Installer un thème : ample-theme, solarized-theme, zenburn-theme, etc.
+* Installer un thème : ample-theme, solarized-theme, zenburn-theme, etc. ([load-theme](https://www.gnu.org/software/emacs/manual/html_node/emacs/Custom-Themes.html))
 
 ##Ajouter quelques fonctionnalités (defuns) pratiques
 
@@ -39,6 +39,3 @@ Voici une proposition de configuration Emacs pour le développement web axé fro
 * [Fusionner des lignes](http://emacsredux.com/blog/2013/05/30/joining-lines/);
 * [Naviguer à travers les braquettes et les parenthèses](http://ergoemacs.org/emacs/emacs_navigating_keys_for_brackets.html);
 * [Afficher les couleurs hexadécimales dans le CSS](http://ergoemacs.org/emacs/emacs_CSS_colors.html).
-
-##Ressources
-* ... bientot!
