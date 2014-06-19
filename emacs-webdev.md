@@ -10,7 +10,7 @@ Configuration de base
 * [Activer Ibuffer](http://www.ergoemacs.org/emacs/emacs_buffer_management.html);
 * [Modifier la police de caractère](http://www.emacswiki.org/emacs/SetFonts).
 
-[Personnalisé certains raccourcis clavier](http://www.gnu.org/software/emacs/manual/html_node/elisp/Key-Binding-Commands.html)
+[Personnaliser certains raccourcis clavier](http://www.gnu.org/software/emacs/manual/html_node/elisp/Key-Binding-Commands.html)
 ------------------------------------------------------------------------------------------------------------------------------
 * [Naviguer à travers les fenetres](http://www.emacswiki.org/emacs/WindMove);
 * [Abbr. dynamique](http://www.emacswiki.org/emacs/DynamicAbbreviations) (auto-complétion d'expression).
