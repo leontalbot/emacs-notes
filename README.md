@@ -8,7 +8,7 @@ Notes personnelles à propos de l'éditeur texte Gnu Emacs.
 Installer Emacs 24.3 sur Ubuntu, Linux Mint, Elementary OS, etc.
 -------------------------------------------------
 
-`$ sudo add-apt-repository ppa:cassou/emacs`
-`$ sudo apt-get update`
-`$ sudo apt-get install emacs24`
+* `$ sudo add-apt-repository ppa:cassou/emacs`
+* `$ sudo apt-get update`
+* `$ sudo apt-get install emacs24`
 
